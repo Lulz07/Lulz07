@@ -1,4 +1,4 @@
-![Stats](https://github-readme-stats.vercel.app/api?username=Lulz07&theme=blue-green)
+![Stats](https://github-readme-stats.vercel.app/api?username=Lulz07&theme=vision-friendly-dark&show_icons=true)
 
 ### Languages I know
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
