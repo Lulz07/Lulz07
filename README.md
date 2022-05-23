@@ -8,4 +8,4 @@
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-000?&logo=visual%20studio%20code)
 ![GNU Bash](https://img.shields.io/badge/GNU%20Bash-000?&logo=GNU%20Bash)
 ![Git](https://img.shields.io/badge/GIT-000?&logo=git)
-![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?&logo=cmake)
+![CMake](https://img.shields.io/badge/CMake-000.svg?&logo=cmake)
